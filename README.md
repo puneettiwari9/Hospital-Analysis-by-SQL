@@ -68,7 +68,7 @@ DELIMITER ','
 CSV HEADER;
 
 ---
-`**##  SQL Query Summary**`
+```##SQL Query Summary ```
 #	Query Description
 1️⃣	Total number of patients across all hospitals
 2️⃣	Average number of doctors per hospital
