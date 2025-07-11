@@ -70,7 +70,7 @@ CSV HEADER;
 ---
 
 
-📊 SQL Query Summary
+##  SQL Query Summary
 #	Query Description
 1️⃣	Total number of patients across all hospitals
 2️⃣	Average number of doctors per hospital
@@ -82,6 +82,7 @@ CSV HEADER;
 8️⃣	Average length of stay per department
 9️⃣	Department with the lowest number of patients
 🔟	Monthly total medical expenses (grouped by month
+---
 
 📈 Sample Business Insights
 *💉 Which department handles the most patients?
