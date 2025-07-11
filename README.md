@@ -68,8 +68,6 @@ DELIMITER ','
 CSV HEADER;
 
 ---
-
-
 ##  SQL Query Summary
 #	Query Description
 1️⃣	Total number of patients across all hospitals
@@ -83,7 +81,6 @@ CSV HEADER;
 9️⃣	Department with the lowest number of patients
 🔟	Monthly total medical expenses (grouped by month
 ---
-
 📈 Sample Business Insights
 *💉 Which department handles the most patients?
 
