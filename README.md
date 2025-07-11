@@ -68,29 +68,37 @@ DELIMITER ','
 CSV HEADER;
 
 ---
-```##SQL Query Summary ```
-#	Query Description
-1️⃣	Total number of patients across all hospitals
-2️⃣	Average number of doctors per hospital
-3️⃣	Top 3 departments with the highest patient count
-4️⃣	Hospital with the highest medical expenses
-5️⃣	Average daily medical expenses per hospital
-6️⃣	Patient with the longest hospital stay
-7️⃣	Total patients treated per city
-8️⃣	Average length of stay per department
-9️⃣	Department with the lowest number of patients
-🔟	Monthly total medical expenses (grouped by month
+## 🧾 SQL Query Summary
+
+| #   | Query Description                                               |
+|-----|-----------------------------------------------------------------|
+| 1️⃣ | Total number of patients across all hospitals                  |
+| 2️⃣ | Average number of doctors per hospital                         |
+| 3️⃣ | Top 3 departments with the highest patient count               |
+| 4️⃣ | Hospital with the highest medical expenses                     |
+| 5️⃣ | Average daily medical expenses per hospital                    |
+| 6️⃣ | Patient with the longest hospital stay                         |
+| 7️⃣ | Total patients treated per city                                |
+| 8️⃣ | Average length of stay per department                          |
+| 9️⃣ | Department with the lowest number of patients                  |
+| 🔟  | Monthly total medical expenses (grouped by month)              |
+
 ---
-📈 Sample Business Insights
-*💉 Which department handles the most patients?
 
-*💰 Which hospital spends the most on treatment?
+## 📈 Sample Business Insights
 
-*📆 How long are patients typically staying per department?
+- 💉 **Which department handles the most patients?**
+- 💰 **Which hospital spends the most on treatment?**
+- 📆 **How long are patients typically staying per department?**
+- 🏙️ **Which cities have the highest patient load?**
+- 📉 **Which department might need additional resources due to low capacity?**
 
-*🏙️ Which cities have the highest patient load?
+---
 
-*📉 Which department might need additional resources due to low capacity?
+## 🙋‍♂️ About the Author
 
-🙋‍♂️ About the Author
-This project was developed as part of a SQL learning and data analytics practice initiative by PUNEET TIWARI
+This project was developed as part of a **SQL learning and data analytics practice initiative** by **Puneet Tiwari**.
+
+> 📫 Feel free to connect, contribute, or provide feedback!
+
+
