@@ -48,10 +48,11 @@ CREATE TABLE public.hospital (
   discharge_date DATE,
   medical_expenses NUMERIC(10,2)
 );
-
+---
 
 ##📥 Data Import Command
-To import your CSV file (update the file path to your system):
+
+---To import your CSV file (update the file path to your system):
 
 sql
 Copy
@@ -66,7 +67,7 @@ FROM 'path'
 DELIMITER ','
 CSV HEADER;
 
-
+---
 
 
 📊 SQL Query Summary
